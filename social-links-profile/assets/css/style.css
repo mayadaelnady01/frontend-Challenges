@@ -40,6 +40,10 @@ body{
     border-radius: 5px;
     width: 80%;
 }
+a{
+    text-decoration: none;
+    
+}
 .social-buttons:hover{
     background-color:#abfb3b;
     color: #121212;
