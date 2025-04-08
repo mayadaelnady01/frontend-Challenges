@@ -1,0 +1,46 @@
+body{
+    background-color:#121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.profile{
+    background-color: #1A1A1A;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    width: 300px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+.profile-image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.name{
+    color: #ffffff;
+}
+.location{
+    color:#B6F758;
+}
+.bio{
+    color: #ebebeb;
+    font-size: 13px;
+}
+.social-buttons{
+    background-color: #3A3A3A;
+    color: #ffffff;
+    display: block;
+    padding: 7px;
+    margin-bottom: 15px;
+    margin-left: 10%;
+    border: none;
+    border-radius: 5px;
+    width: 80%;
+}
+.social-buttons:hover{
+    background-color:#abfb3b;
+    color: #121212;
+ }
